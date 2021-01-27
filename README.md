@@ -12,9 +12,9 @@ The user should be able to enter their two 9 weeks grades and their final exam g
 
 ### Examples
 
-!(./Example1.PNG)
+![](./Example1.PNG)
 
-!(./Example2.PNG)
+![](./Example2.PNG)
 
 ### Details
 
