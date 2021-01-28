@@ -19,9 +19,9 @@ The user should be able to enter their two 9 weeks grades and their final exam g
 ### Details
 
 * Each set of `Label` and `Entry` pairs should be in their own `Field`.
-* Each `Field` should be 20 wide and have some sort of relief along the border (you can choose which one).
-* The `Button` can be in a `Field`, or not, your choice.
-* All `Field`s should have the same width so it looks nice.
+* Each `Frame` should be 20 wide and have some sort of relief along the border (you can choose which one).
+* The `Button` can be in a `Frame`, or not, your choice.
+* All `Frame`s should have the same width so it looks nice.
 * Set the window title using `window.title("Words For Title")`
 * Add some color!  Make it look nicer than a flat grey application.
 * In the example the `Entry` fields have a width of 5.
